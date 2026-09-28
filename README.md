@@ -1,18 +1,17 @@
-# Nome do Sistema: o que ele faz, em uma frase
+# StudyFlow
+Auxilia os alunos
 
 > **Antes de tudo.** Este é o modelo do Projeto Integrador de Análise e Projeto de Sistemas. Se você está lendo isto no seu próprio repositório, deu certo. Troque o título acima pelo nome do seu sistema e por uma frase que diga o que ele faz, preencha a autoria e o cliente e apague este aviso.
 
 Projeto Integrador de Análise e Projeto de Sistemas, 2026.
 IFPR, Centro de Referência Ponta Grossa. Técnico em Informática Integrado ao Ensino Médio.
 
-**Autoria:** _seu nome, como aparece no AVA_
+**Autoria:** Fabricio Candido Ferreira
 
-**Cliente:** _o papel do cliente e a relação dele com você, no máximo com o primeiro nome. Por exemplo, "Dona Rosa, minha avó, que faz marmita por encomenda"._
-
+**Cliente:** Veiga, o Diretor da escola
 ## Apresentação do projeto
 
-<!-- Três a cinco frases para quem nunca ouviu falar do seu sistema. Qual é o problema, para quem, e o que o sistema faz a respeito.
-     Escreva depois de terminar a 4.1. É um resumo dela, com as suas palavras. -->
+Em uma escola os alunos estão ficando de recuperação em muitas disciplinas, o Diretor da escola entrou em contato comigo, ele ajuda os alunos a estudar para as provas, ajuda também nas atividades e ajuda no pss
 
 _Escreva aqui a apresentação do projeto._
 
