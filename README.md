@@ -11,9 +11,11 @@ IFPR, Centro de Referência Ponta Grossa. Técnico em Informática Integrado ao 
 **Cliente:** Veiga, o Diretor da escola
 ## Apresentação do projeto
 
-Em uma escola os alunos estão ficando de recuperação em muitas disciplinas, o Diretor da escola entrou em contato comigo, ele ajuda os alunos a estudar para as provas, ajuda também nas atividades e ajuda no pss
+## Apresentação do projeto
 
-_Escreva aqui a apresentação do projeto._
+A nossa escola está enfrentando um problemão: muitos alunos estão ficando de recuperação em várias matérias. Para tentar resolver isso, o Diretor Veiga ajuda a gurizada direto, dando apoio nos estudos para as provas, nas tarefas do dia a dia e também na preparação para o PSS. O problema é que fazer todo esse acompanhamento na mão é bem difícil e cansativo.
+
+O **StudyFlow** nasce para organizar e facilitar essa rotina. A ideia é criar uma plataforma onde o diretor possa acompanhar de perto quem precisa de ajuda e postar cronogramas de reforço. Para os estudantes, o sistema vai funcionar como um guia, centralizando materiais de estudo e conteúdos focados no PSS. Assim, todo mundo consegue se organizar melhor e recuperar as notas de um jeito mais leve.
 
 ## Documento do projeto
 
