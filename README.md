@@ -11,7 +11,6 @@ IFPR, Centro de Referência Ponta Grossa. Técnico em Informática Integrado ao 
 **Cliente:** Veiga, o Diretor da escola
 ## Apresentação do projeto
 
-## Apresentação do projeto
 
 A nossa escola está enfrentando um problemão: muitos alunos estão ficando de recuperação em várias matérias. Para tentar resolver isso, o Diretor Veiga ajuda a gurizada direto, dando apoio nos estudos para as provas, nas tarefas do dia a dia e também na preparação para o PSS. O problema é que fazer todo esse acompanhamento na mão é bem difícil e cansativo.
 
